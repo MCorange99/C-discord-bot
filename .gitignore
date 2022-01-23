@@ -1,1 +1,6 @@
 myBot
+config.json
+*.log
+.obj/
+obj/
+orca_old/

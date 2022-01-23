@@ -83,4 +83,7 @@ echo:
 	@ echo -e 'OBJS: $(OBJS)\n'
 	@ echo -e 'MAIN: $(MAIN)\n'
 
+orca:
+	$(MAKE) -C orca
+
 .PHONY: all clean config
