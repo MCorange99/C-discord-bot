@@ -1,0 +1,3 @@
+14:55:33|[90m3243535232[0m [94mTRACE[0m [90mdiscord-adapter-ratelimit.c:241:[0m [DISCORD_HTTP] [null] Couldn't match known buckets to ':1:users:@me'
+14:55:34|[90m3243535232[0m [36mDEBUG[0m [90mdiscord-adapter-ratelimit.c:188:[0m [DISCORD_HTTP] [miss] Match ':1:users:@me' to bucket
+14:55:34|[90m3243535232[0m [36mDEBUG[0m [90mdiscord-adapter-ratelimit.c:305:[0m [DISCORD_HTTP] [miss] Remaining = 1 | Reset = 0

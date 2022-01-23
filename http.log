@@ -1,0 +1,25 @@
+HTTP_SEND_GET [USER_AGENT #TID3243535232] - 2022-01-23T11:55:33.722Z - https://discord.com/api/v9/users/@me
+User-Agent: Orca (https://github.com/cee-studio/orca)
+Authorization: Bot ODU3OTUyMjgwNzg3MTU3MDQz.YNXEUw.P2BnyZe9P6nC8E3nnGJpF3GRt7U
+Content-Type: application/json
+
+@@@_1_@@@
+HTTP_RCV_OK(200) [USER_AGENT #TID3243535232] - 2022-01-23T11:55:34.311Z - https://discord.com/api/v9/users/@me
+date: Sun, 23 Jan 2022 12:55:05 GMT
+content-type: application/json
+cf-ray: 6d212ca1cf70b4f0-VNO
+set-cookie: __dcfduid=aee15b697c4b11ecb46542010a0a05d7; Expires=Fri, 22-Jan-2027 12:55:05 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+via: 1.1 google
+cf-cache-status: DYNAMIC
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: __sdcfduid=aee15b697c4b11ecb46542010a0a05d7cdeba96fd01f63375631e559c3223c8d805b409a6814ffd6932191d1ca7425fd; Expires=Fri, 22-Jan-2027 12:55:05 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/
+x-content-type-options: nosniff
+x-envoy-upstream-service-time: 44
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VTv5ub3cP6kSGd3geiDLToV0VwPrZamL7AsunJXlzT7X7Rv90ShWTBGDP8z%2F7v04OzmaqIx2nCjBfjswOyoBt0G529yaq7et2HSu7Yqcqm7nzOxQJe5RB7K6mXYF"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+
+{"id": "857952280787157043", "username": "Keithos Dev", "avatar": null, "discriminator": "7116", "public_flags": 0, "flags": 0, "bot": true, "banner": null, "banner_color": null, "accent_color": null, "bio": "", "locale": "en-US", "mfa_enabled": true, "email": null, "verified": true}
+@@@_2_@@@
